@@ -1,3 +1,6 @@
 .history/
 venv/
 __pycache__/
+
+# 打包相关文件夹
+packaging/
