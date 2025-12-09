@@ -1,4 +1,4 @@
-% Chunithm Hybrid Controller (CV + Touch)
+# Chunithm Controller (CV + Touch)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.0%2B-green?logo=flask)
