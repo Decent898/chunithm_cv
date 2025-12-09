@@ -1,0 +1,9 @@
+flask
+flask-socketio
+opencv-python
+mediapipe
+pydirectinput
+eventlet
+gevent
+gevent-websocket
+numpy
